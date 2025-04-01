@@ -1,1 +1,1 @@
-# demo-kafka-v1
+demo-kafka-producer-v1
